@@ -1,5 +1,5 @@
 Olá Sou Ediovan Ribeiro sou um desenvolvedor.
-Iniciando no desenvolvimento em 2021, me reconheço como apaixonado por novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+Iniciando no desenvolvimento em 2022, me reconheço como apaixonado por novas tecnologias do mercado, com aprendizado adquirido dia após dia.
 Possuo foco em desenvolvimento com Javascript, TypeScript, React, NodeJS dentre outras tecnologias que uso para criar aplicações web nível e valor.
 Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
 Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado!
